@@ -11,8 +11,7 @@ Dependencies:
 - dataclasses
 - pathlib
 
-Author: Shivang Rana
-Created: 11-27-2024
+Created: 2024
 Version: 1.0.0
 """
 
