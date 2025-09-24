@@ -52,10 +52,4 @@ An AI-powered investment analysis tool that provides comprehensive portfolio ins
 - Python 3.8+
 - Groq API Key (sign up at https://console.groq.com/)
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ---
-
-*Investment involves risks. This tool provides insights and should not be considered definitive financial advice.*
